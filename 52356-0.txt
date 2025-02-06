@@ -1,11 +1,12 @@
-﻿The Project Gutenberg EBook of Essays and Dialogues, by Giacomo Leopardi
+﻿The Project Gutenberg eBook of Essays and Dialogues, by Giacomo Leopardi
 
-This eBook is for the use of anyone anywhere in the United States and most
-other parts of the world at no cost and with almost no restrictions
-whatsoever.  You may copy it, give it away or re-use it under the terms of
-the Project Gutenberg License included with this eBook or online at
-www.gutenberg.org.  If you are not located in the United States, you'll have
-to check the laws of the country where you are located before using this ebook.
+This eBook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this eBook or online at
+www.gutenberg.org. If you are not located in the United States, you
+will have to check the laws of the country where you are located before
+using this eBook.
 
 Title: Essays and Dialogues
 
@@ -13,22 +14,16 @@ Author: Giacomo Leopardi
 
 Translator: Charles Edwardes
 
-Release Date: June 17, 2016 [EBook #52356]
-[Last updated: January 4, 2021]
+Release Date: June 17, 2016 [eBook #52356]
+[Most recently updated: January 19, 2021]
 
 Language: English
 
 Character set encoding: UTF-8
 
-*** START OF THIS PROJECT GUTENBERG EBOOK ESSAYS AND DIALOGUES ***
+Produced by: Marc D'Hooghe
 
-
-
-
-Produced by Marc D'Hooghe at http://www.freeliterature.org
-(Images generously made available by the Bodleian Libraries,
-Oxford.)
-
+*** START OF THE PROJECT GUTENBERG EBOOK ESSAYS AND DIALOGUES ***
 
 
 
@@ -8130,19 +8125,11 @@ THE END.
 
 
 
-
-
-End of Project Gutenberg's Essays and Dialogues, by Giacomo Leopardi
-
-*** END OF THIS PROJECT GUTENBERG EBOOK ESSAYS AND DIALOGUES ***
+*** END OF THE PROJECT GUTENBERG EBOOK ESSAYS AND DIALOGUES ***
 
 ***** This file should be named 52356-0.txt or 52356-0.zip *****
 This and all associated files of various formats will be found in:
-        http://www.gutenberg.org/5/2/3/5/52356/
-
-Produced by Marc D'Hooghe at http://www.freeliterature.org
-(Images generously made available by the Bodleian Libraries,
-Oxford.)
+    https://www.gutenberg.org/5/2/3/5/52356/
 
 Updated editions will replace the previous one--the old editions will
 be renamed.
@@ -8242,8 +8229,8 @@ performed, viewed, copied or distributed:
   restrictions whatsoever. You may copy it, give it away or re-use it
   under the terms of the Project Gutenberg License included with this
   eBook or online at www.gutenberg.org. If you are not located in the
-  United States, you'll have to check the laws of the country where you
-  are located before using this ebook.
+  United States, you will have to check the laws of the country where
+  you are located before using this eBook.
 
 1.E.2. If an individual Project Gutenberg-tm electronic work is
 derived from texts not protected by U.S. copyright law (does not
@@ -8415,9 +8402,8 @@ Archive Foundation and how your efforts and donations can help, see
 Sections 3 and 4 and the Foundation information page at
 www.gutenberg.org
 
-
-
-Section 3. Information about the Project Gutenberg Literary Archive Foundation
+Section 3. Information about the Project Gutenberg Literary
+Archive Foundation
 
 The Project Gutenberg Literary Archive Foundation is a non profit
 501(c)(3) educational corporation organized under the laws of the
@@ -8496,4 +8482,5 @@ This Web site includes information about Project Gutenberg-tm,
 including how to make donations to the Project Gutenberg Literary
 Archive Foundation, how to help produce our new eBooks, and how to
 subscribe to our email newsletter to hear about new eBooks.
+
 
