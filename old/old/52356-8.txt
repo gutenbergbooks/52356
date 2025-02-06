@@ -1,4 +1,37 @@
-*** START OF THE PROJECT GUTENBERG EBOOK 52356 ***
+The Project Gutenberg EBook of Essays and Dialogues, by Giacomo Leopardi
+
+This eBook is for the use of anyone anywhere in the United States and most
+other parts of the world at no cost and with almost no restrictions
+whatsoever.  You may copy it, give it away or re-use it under the terms of
+the Project Gutenberg License included with this eBook or online at
+www.gutenberg.org.  If you are not located in the United States, you'll have
+to check the laws of the country where you are located before using this ebook.
+
+Title: Essays and Dialogues
+
+Author: Giacomo Leopardi
+
+Translator: Charles Edwardes
+
+Release Date: June 17, 2016 [EBook #52356]
+[Last updated: January 4, 2021]
+
+Language: English
+
+Character set encoding: ISO-8859-1
+
+*** START OF THIS PROJECT GUTENBERG EBOOK ESSAYS AND DIALOGUES ***
+
+
+
+
+Produced by Marc D'Hooghe at http://www.freeliterature.org
+(Images generously made available by the Bodleian Libraries,
+Oxford.)
+
+
+
+
 
 ESSAYS AND DIALOGUES
 
@@ -16,7 +49,7 @@ _With Biographical Sketch._
 
 LONDON:
 
-TR‚ÄπBNER & CO., LUDGATE HILL.
+TR‹BNER & CO., LUDGATE HILL.
 
 1882.
 
@@ -310,7 +343,7 @@ and as such his conduct was probably different from that of more
 modern Italian fathers; but that was all.
 
 In 1819, when his whole being was in a turmoil of disquiet, Leopardi
-made his d√àbut as a poet, with two Odes--the one addressed to Italy,
+made his dÈbut as a poet, with two Odes--the one addressed to Italy,
 and the other on the monument to Dante, then recently erected in
 Florence. The following literal translation of the first stanza of the
 Ode to Italy gives but a faint echo of the original verse:--
@@ -336,11 +369,11 @@ Ode to Italy gives but a faint echo of the original verse:--
     Non vedo il lauro e il ferro ond' eran carchi
     I nostri padri antichi. Or fatta inerme,
     Nuda la fronte e nudo il petto mostri.
-    Oim√ã quante ferite,
+    OimË quante ferite,
     Che lividor, che sangue! oh qual ti veggio,
     Formosissima donna! Io chiedo al cielo,
     E al mondo: dite, dite:
-    Chi la ridusse a tale? E questo √ã peggio,
+    Chi la ridusse a tale? E questo Ë peggio,
     Che di catene ha carene ambe le braccia.
     Si che sparte le chiome e senza velo
     Siede in terra negletta e sconsolata,
@@ -355,7 +388,7 @@ enthusiasm. They are the expression of a soul fired with its own flame,
 which serves to illumine and vivify a theme then only too real in his
 country's experience, the sufferings of Italy. Patriotism pervades
 his earliest verse; sadness and hopelessness that of later times. For
-these two odes Giordani bestowed unsparing eulogy on his young prot√àg√à.
+these two odes Giordani bestowed unsparing eulogy on his young protÈgÈ.
 Before their appearance he had begun to regard Leopardi as the rising
 genius of Italy, and had not hesitated to say to him, "Inveni hominem!"
 Now, however, his admiration was unbounded; he thus apostrophised him:
@@ -428,7 +461,7 @@ of the so-called scholars of Rome.
     sum of human wisdom, indeed the only true science of man,
     is antiquity. Hitherto I have not encountered a lettered
     Eoman who understands the term literature as meaning
-    anything except arch√äology. Philosophy, ethics, politics,
+    anything except archÊology. Philosophy, ethics, politics,
     eloquence, poetry, philology, are unknown things in Rome,
     and are regarded as childish playthings compared to the
     discovery of some bit of copper or stone of the time of Mark
@@ -613,8 +646,8 @@ mental disquietude:--
 
     (Poem "A Se Stesso.")
 
-These words might have been an echo of ¬´‚Äökyamuni's utterance beneath
-the sacred fig-tree of B√ôdhimanda, when, according to the legend, he
+These words might have been an echo of «‚kyamuni's utterance beneath
+the sacred fig-tree of BÙdhimanda, when, according to the legend, he
 was in process of transformation from man to Buddha: the resemblance is
 at any rate a remarkable one.
 
@@ -700,7 +733,7 @@ he suffered in its rejection. It is a noble, yet a terrible poem.
 Opening with a description of the scene that met his eye as he entered
 the room where his charmer sat, "robed in the hue of the melancholy
 violet, and surrounded by a wondrous luxury," pressing "tender and
-burning kisses on the round lips√à" of her children, and displaying "her
+burning kisses on the round lipsÈ" of her children, and displaying "her
 snowy neck," he saw as it were "a new heaven, and a new earth, and the
 lustre of a celestial light."
 
@@ -907,7 +940,7 @@ Still less can any satisfactory explanation be given of the purpose
 for which suffering exists, unless we rely on revelation. Religion,
 which modern philosophers somewhat contemptuously designate as "popular
 metaphysics," can alone afford an explanation of these problems.
-¬´‚Äökyamuni, nearly 2500 years ago, asked, "What is the cause of all the
+«‚kyamuni, nearly 2500 years ago, asked, "What is the cause of all the
 miseries and sufferings with which man is afflicted?" He himself gave
 what he considered to be the correct answer: "Existence;" and then he
 traced existence to the passions and desires innate in man. These last
@@ -939,7 +972,7 @@ knowledge must represent increasing sorrow. As Johnson has said:
 palliative." For the material means of palliation we look to science.
 We hope and think that there is good to be gained from these writings
 of Leopardi, in spite of the tone of despair that rings throughout
-them. His theory of the "infelicit‚Ä°" of things, cheerless though it
+them. His theory of the "infelicit‡" of things, cheerless though it
 be, often suggests ideas, sublime in themselves and noble in their
 effect; and the very essence of his philosophy resolves itself into a
 recommendation to act, rather than by contemplation to lose the power
@@ -1005,8 +1038,8 @@ to work for the welfare of the family of which she became a member.
 Weighted with debt almost to the point of exhaustion, the estates of
 Casa Leopardi needed a skilful and vigorous administrator, if they were
 to continue in the hands of their old owners. Count Monaldo Leopardi
-was not such an administrator. He was a man devoted "tout entier ‚Ä°
-science," and occupying himself more with bibliology and arch√äology
+was not such an administrator. He was a man devoted "tout entier ‡
+science," and occupying himself more with bibliology and archÊology
 than with the finances of his estate. The Jews of Perousa, Milan, and
 the March towns would, sooner or later, have tightened their hold on
 the Leopardi patrimony to such a degree that the ancient family could
@@ -1044,11 +1077,11 @@ preparation of this volume:--
 
     Studio di Leopardi. A. Baragiola: Strasburg, 1876.
 
-    Traduction compl√ãte de Leopardi. F. A. Aulard: Paris, 1880.
+    Traduction complËte de Leopardi. F. A. Aulard: Paris, 1880.
 
-    Opuscules et Pens√àes de Leopardi. A. Dapples: Paris, 1880.
+    Opuscules et PensÈes de Leopardi. A. Dapples: Paris, 1880.
 
-    G. Leopardi: sa Vie et ses Oeuvres. Bouch√à Leclercq: Paris,
+    G. Leopardi: sa Vie et ses Oeuvres. BouchÈ Leclercq: Paris,
     1874.
 
     Le Pessimisme. E. Caro: Paris, 1878.
@@ -1621,7 +1654,7 @@ and exculpate me with your father, else I shall momentarily expect a
 thunderbolt to transform me from Atlas into Etna.
 
 
-[Footnote 1: See Pliny, Diogenes Laertius, Apollonius, Varr√ö, &c.]
+[Footnote 1: See Pliny, Diogenes Laertius, Apollonius, VarrÚ, &c.]
 
 [Footnote 2: See Apollonius, Pliny, Tertullian, &c.]
 
@@ -2073,7 +2106,7 @@ _Gnome_. The stars and planets still rise and set; nor have they gone
 into mourning.
 
 _Goblin_. Neither has the sun put on sackcloth and ashes, as it did,
-according to Virgil, when C√äsar died; about whom I imagine it concerned
+according to Virgil, when CÊsar died; about whom I imagine it concerned
 itself as little as Pompey's Pillar.
 
 
@@ -2683,7 +2716,7 @@ or lightning. Others, more rationally, affirmed that Prometheus, owing
 to age, had begun to lose his hair, and being greatly troubled at this
 misadventure, as are many mortals in similar circumstances (and either
 not having read Synesius' eulogy on baldness, or being unconvinced
-by it), wished, like Julius C√äsar, to hide the nakedness of his head
+by it), wished, like Julius CÊsar, to hide the nakedness of his head
 beneath the leafy diadem.
 
 But to turn to facts. One day Prometheus, talking with Momus, bitterly
@@ -2749,7 +2782,7 @@ _Prom_. Of a domestic, or wild animal?
 
 _Savage_. Domestic, in truth, since it is my own son.
 
-_Prom_. What! Had you then, like Pasipha√é, a calf for your son?
+_Prom_. What! Had you then, like PasiphaÎ, a calf for your son?
 
 _Savage_. Not a calf, but a child like every one else.
 
@@ -2788,7 +2821,7 @@ gives to a mouse. So, to avoid being eaten by his own manufactures, he
 rose suddenly on the wing, and Momus followed his example. And such
 was their fright that in setting out they unconsciously behaved as did
 the Harpies towards the Trojans when at meat. But the cannibals, more
-hungry, or less dainty, than the companions of ‚àÜneas, continued their
+hungry, or less dainty, than the companions of ∆neas, continued their
 horrid repast.
 
 Prometheus, very dissatisfied with the New World, turned immediately
@@ -3653,7 +3686,7 @@ one of the museums of Europe.
 [Footnote 2: Cicero says: "Labour and pain are not identical. Labour is
 a toil-some function of body or mind--pain an unpleasant disturbance in
 the body. When they cut Marius' veins, it was pain; when he marched at
-the head of the troops in a great heat, it was labour."--_Tusc. Qu√äst._]
+the head of the troops in a great heat, it was labour."--_Tusc. QuÊst._]
 
 [Footnote 3: Seneca, _Natural. Question_: lib. 6, cap. 2.]
 
@@ -3669,7 +3702,7 @@ to literary excellence joined depth of thought, and acquaintance with
 contemporary philosophy. These latter attributes are now so essential
 to the cultivation of the _belles lettres_, that their absence would
 be inconceivable, did we not find an infinite number of Italian
-_litt√àrateurs_ of the present day, in whom they are wanting.
+_littÈrateurs_ of the present day, in whom they are wanting.
 
 He was remarkable for his simplicity, his compassion for the
 unfortunate and his own country, his fidelity, high-mindedness, and the
@@ -3862,7 +3895,7 @@ mediocrity to perfection.
 "In reading the letters of a certain prince, exceptionally intelligent,
 whose writing was remarkable for its wit, pleasantry, smoothness, and
 acuteness, I clearly discerned that in his heart he preferred the
-Henriad to the ‚àÜneid; although the fear of shocking men's sensibilities
+Henriad to the ∆neid; although the fear of shocking men's sensibilities
 might deter him from confessing such a preference.
 
 "I am astonished that the judgment of a few, correct though it be,
@@ -4011,7 +4044,7 @@ the state of mind necessary to appreciate such delights, as the
 conversation of these men, the riot of these places, and the sight of
 the tinselled splendour, the falseness, the miserable troubles, and
 still more miserable idleness which abound there. I also think that
-the _litt√àrateurs_ of large towns are, as a rule, less qualified to
+the _littÈrateurs_ of large towns are, as a rule, less qualified to
 judge books than those of small towns; because, like everything else,
 the literature of large towns is ordinarily false and pretentious, or
 superficial.
@@ -4119,7 +4152,7 @@ because it did so before; we couple together imagination of the present
 and remembrance of the past. For example, an actress who pleased us
 on the stage, will probably please us in private life: her voice; her
 manner; the recollection of the applause she excited; perhaps, too,
-her _r√ôle_ of princess joined to her real character,--all combine and
+her _rÙle_ of princess joined to her real character,--all combine and
 form a mixture of influences producing a general feeling of pleasure.
 Our minds are always full of ideas subordinate to one or more primary
 ideas. A woman famous for one cause or another, and possessed of some
@@ -4156,7 +4189,7 @@ than all other people.
 writers."
 
 
-[Footnote 1: Ex: Fragment _Sur le goÀöt_, &c.]
+[Footnote 1: Ex: Fragment _Sur le go˚t_, &c.]
 
 
 
@@ -4368,7 +4401,7 @@ truths that he only imagined, to prove his conjectures, and give better
 form and order to his inventions, almost, as it were, maturing them.
 Perchance, after a time, some student engaged in historical research
 may justly appraise the influence of this genius, and may announce him
-to his countrymen with great _√àclat_; but the fame that may ensue from
+to his countrymen with great _Èclat_; but the fame that may ensue from
 this will soon give way to renewed oblivion.
 
 "The progress of human knowledge, like a falling weight, increases
@@ -4592,7 +4625,7 @@ future as rapidly as it gives promise of doing?
 
 "Truly the very intellectual force, industry, and labour, which
 philosophers and scientists expend in the pursuit of their glory, are
-in time the cause of its extinction or obscur√àment. For by their own
+in time the cause of its extinction or obscurÈment. For by their own
 great exertions they open out a path for the still further advancement
 of the science, which in time progresses so rapidly that their writings
 and names fall gradually into oblivion. And it is certainly difficult
@@ -5001,13 +5034,13 @@ man were the origin of all Greek philosophy, and, consequently, the
 philosophy of modern times. He also said that in the writings of
 his followers, the individuality of Socrates is comparable to those
 theatrical masks of the ancients, which always retained their name,
-character, and identity, but the _r√ôle_ of which varied in each
+character, and identity, but the _rÙle_ of which varied in each
 distinct performance.
 
 He left behind him no philosophical or other writings for public
 benefit. Being asked one day why he did not give written as well as
 verbal expression to his philosophical views, he replied: "Reading
-is a conversation held with the writer. Now, as in f√çtes and public
+is a conversation held with the writer. Now, as in fÍtes and public
 entertainments, they who take no active part in the spectacle or
 performance soon become tired, similarly in conversation men prefer to
 speak rather than listen. And books necessarily resemble those people
@@ -5537,13 +5570,13 @@ continually referring to himself, is surpassingly eloquent. And Cicero,
 when he touches on his own affairs, is equally successful; peculiarly
 so in his Oration for Milo, admirable throughout, but above all praise
 towards the end, where he himself is introduced. Bossuet also is
-supremely excellent in his panegyric of the Prince de Cond√à, where he
+supremely excellent in his panegyric of the Prince de CondÈ, where he
 mentions his own extreme age and approaching death. Again, the Emperor
 Julian, whose writings are all else trifling, and often unbearable, is
 at his best in the "Misopogony" (speech against the beard), in which
 he replies to the ridicule and malice of the people of Antioch. He
 is here scarcely inferior to Lucian in wit, vigour, and acuteness;
-whereas his work on the C√äsars, professedly an imitation of Lucian,
+whereas his work on the CÊsars, professedly an imitation of Lucian,
 is pointless, dull, feeble, and almost stupid. In Italian literature,
 which is almost devoid of eloquent writings, the apology of Lorenzo
 de Medici is a specimen of eloquence, grand and perfect in every way.
@@ -5642,7 +5675,7 @@ you begin at all to doubt.
 _Col_. Speaking frankly as to a friend who will not betray me, I
 confess I am a little dubious; especially because certain evidences
 during the voyage, which filled me with hope, have turned out
-deceitful; for instance, the birds which flew over us from the west,
+deceitful; for instance, the birds which dew over us from the west,
 soon after we left Gomera, and which I considered a sure sign of land
 not far distant. Similarly, more than one conjecture and anticipation,
 made before setting out, regarding different things that were to have
@@ -5893,7 +5926,7 @@ voices, and thus incite other living beings to joy, by their continual,
 though false, testimony to the happiness of things.
 
 It is reasonable that birds should be, and show themselves, more joyful
-than other creatures. For, as I have said, they are naturally better
+than other creatures. Tor, as I have said, they are naturally better
 adapted for joy and happiness. In the first place, apparently, they are
 not subject to ennui. They change their position momentarily, and pass
 from country to country, however distant, and from the lowest regions
@@ -5934,12 +5967,12 @@ Dante or Tasso; for this is a disastrous endowment, and the cause of
 endless anxieties and sufferings. But a fertile, light, and childish
 fancy, such as is productive of joyful thoughts, sweet unrealities,
 and manifold pleasures. This is the noblest gift of Nature to living
-creatures. And birds have this faculty in a great measure for their
+creatures. And birds have this faculty in a great; measure for their
 own delight and benefit, without experiencing any of its hurtful and
 painful consequences. For their prolific imagination, as with children,
 combines, with their bodily vigour, to render them happy and contented,
 instead of being injurious, and productive of misery, as with most
-men. Thus, birds may be said to resemble children equally in their
+men. Thus, birds may be said to resemble children equally in' their
 vivacity and restlessness, and the other attributes of their nature. If
 the advantages of childhood were common to other ages, and its evils
 not exceeded later in life, man might perhaps be better able to bear
@@ -5993,7 +6026,7 @@ express itself in human fashion. In proof of this, an old parchment
 manuscript has been discovered, containing a canticle written in
 Hebrew characters, and in a language compounded of Chaldean, Targumic,
 Rabbinical, Cabalistic and Talmudic, entitled "Morning Song of the
-Wild Cock." (Scir detarneg√öl bara letzafra.) This, not without great
+Wild Cock." (Scir detarnegÚl bara letzafra.) This, not without great
 exertion, and the interrogation of more than one Rabbi, Cabalist,
 theologian, jurist, and Hebrew philosopher, has been interpreted and
 translated as follows. I have not yet been able to ascertain whether
@@ -6394,7 +6427,7 @@ astounding manner, we have every reason to think that the goal will be
 reached, sooner or later. This conviction itself is by no means one
 of the least stimulants to progress, because it gives birth to a host
 of undertakings and labours useful for the common welfare. If, then,
-at any time it was fatal and bl‚Äömable to manifest despair like yours,
+at any time it was fatal and bl‚mable to manifest despair like yours,
 and to teach men such doctrines as the absolute necessity of their
 wretchedness, the vanity of life, the insignificance of their race, and
 the evil of their nature, much more is it so in the present day. Such
@@ -6849,7 +6882,7 @@ this new state, however, you will have as many equals as stars, each
 with their respective stars. Beware then lest this change be ruinous to
 your supremacy.
 
-_Sun_. You remember C√äsar's remark, when, crossing the Alps, he
+_Sun_. You remember CÊsar's remark, when, crossing the Alps, he
 happened to pass a certain miserable little barbarian village. He said
 that he would rather be the first in that village, than the second
 in Rome. Similarly I would rather be first in this my own world than
@@ -7988,7 +8021,7 @@ themselves illustrious, obscurity and success in nothing is the common
 fate both of the highest and lowest.
 
 But, long live statistics! Long live the sciences, economical, moral,
-and political; the pocket encyclop√ädias; the manuals of everything;
+and political; the pocket encyclopÊdias; the manuals of everything;
 and all the other fine creations of our age! And may the nineteenth
 century live for ever! For though poor in results, it is yet very rich
 and great in promise, which' is well known to be the best of signs. Let
@@ -8083,7 +8116,7 @@ comes to me, I shall die as peacefully and contentedly as if it were
 the only thing for which I had ever wished in the world. This is the
 sole prospect that reconciles me to Destiny.
 
-If, on the one hand, I were offered the fortune and fame of C√äsar or
+If, on the one hand, I were offered the fortune and fame of CÊsar or
 Alexander, free from the least stain; and, on the other hand, death
 to-day, I should unhesitatingly choose to die to-day.
 
@@ -8094,4 +8127,373 @@ to-day, I should unhesitatingly choose to die to-day.
 
 THE END.
 
-*** END OF THE PROJECT GUTENBERG EBOOK 52356 ***
+
+
+
+
+
+End of Project Gutenberg's Essays and Dialogues, by Giacomo Leopardi
+
+*** END OF THIS PROJECT GUTENBERG EBOOK ESSAYS AND DIALOGUES ***
+
+***** This file should be named 52356-8.txt or 52356-8.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/5/2/3/5/52356/
+
+Produced by Marc D'Hooghe at http://www.freeliterature.org
+(Images generously made available by the Bodleian Libraries,
+Oxford.)
+
+Updated editions will replace the previous one--the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for the eBooks, unless you receive
+specific permission. If you do not charge anything for copies of this
+eBook, complying with the rules is very easy. You may use this eBook
+for nearly any purpose such as creation of derivative works, reports,
+performances and research. They may be modified and printed and given
+away--you may do practically ANYTHING in the United States with eBooks
+not protected by U.S. copyright law. Redistribution is subject to the
+trademark license, especially commercial redistribution.
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full
+Project Gutenberg-tm License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project
+Gutenberg-tm electronic works
+
+1.A. By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg-tm electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg-tm electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the
+person or entity to whom you paid the fee as set forth in paragraph
+1.E.8.
+
+1.B. "Project Gutenberg" is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg-tm
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation ("the
+Foundation" or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg-tm electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg-tm mission of promoting
+free access to electronic works by freely sharing Project Gutenberg-tm
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg-tm name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg-tm License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg-tm work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country outside the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg-tm License must appear
+prominently whenever any copy of a Project Gutenberg-tm work (any work
+on which the phrase "Project Gutenberg" appears, or with which the
+phrase "Project Gutenberg" is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+  This eBook is for the use of anyone anywhere in the United States and
+  most other parts of the world at no cost and with almost no
+  restrictions whatsoever. You may copy it, give it away or re-use it
+  under the terms of the Project Gutenberg License included with this
+  eBook or online at www.gutenberg.org. If you are not located in the
+  United States, you'll have to check the laws of the country where you
+  are located before using this ebook.
+
+1.E.2. If an individual Project Gutenberg-tm electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase "Project
+Gutenberg" associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg-tm
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg-tm License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg-tm work in a format
+other than "Plain Vanilla ASCII" or other format used in the official
+version posted on the official Project Gutenberg-tm web site
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original "Plain
+Vanilla ASCII" or other form. Any alternate format must include the
+full Project Gutenberg-tm License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works
+provided that
+
+* You pay a royalty fee of 20% of the gross profits you derive from
+  the use of Project Gutenberg-tm works calculated using the method
+  you already use to calculate your applicable taxes. The fee is owed
+  to the owner of the Project Gutenberg-tm trademark, but he has
+  agreed to donate royalties under this paragraph to the Project
+  Gutenberg Literary Archive Foundation. Royalty payments must be paid
+  within 60 days following each date on which you prepare (or are
+  legally required to prepare) your periodic tax returns. Royalty
+  payments should be clearly marked as such and sent to the Project
+  Gutenberg Literary Archive Foundation at the address specified in
+  Section 4, "Information about donations to the Project Gutenberg
+  Literary Archive Foundation."
+
+* You provide a full refund of any money paid by a user who notifies
+  you in writing (or by e-mail) within 30 days of receipt that s/he
+  does not agree to the terms of the full Project Gutenberg-tm
+  License. You must require such a user to return or destroy all
+  copies of the works possessed in a physical medium and discontinue
+  all use of and all access to other copies of Project Gutenberg-tm
+  works.
+
+* You provide, in accordance with paragraph 1.F.3, a full refund of
+  any money paid for a work or a replacement copy, if a defect in the
+  electronic work is discovered and reported to you within 90 days of
+  receipt of the work.
+
+* You comply with all other terms of this agreement for free
+  distribution of Project Gutenberg-tm works.
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg-tm electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from both the Project Gutenberg Literary Archive Foundation and The
+Project Gutenberg Trademark LLC, the owner of the Project Gutenberg-tm
+trademark. Contact the Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
+electronic works, and the medium on which they may be stored, may
+contain "Defects," such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg-tm
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg-tm work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg-tm work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at
+www.gutenberg.org
+
+
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation's EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state's laws.
+
+The Foundation's principal office is in Fairbanks, Alaska, with the
+mailing address: PO Box 750175, Fairbanks, AK 99775, but its
+volunteers and employees are scattered throughout numerous
+locations. Its business office is located at 809 North 1500 West, Salt
+Lake City, UT 84116, (801) 596-1887. Email contact links and up to
+date contact information can be found at the Foundation's web site and
+official page at www.gutenberg.org/contact
+
+For additional contact information:
+
+    Dr. Gregory B. Newby
+    Chief Executive and Director
+    gbnewby@pglaf.org
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular
+state visit www.gutenberg.org/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate
+
+Section 5. General Information About Project Gutenberg-tm electronic works.
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg-tm concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg-tm eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our Web site which has the main PG search
+facility: www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
